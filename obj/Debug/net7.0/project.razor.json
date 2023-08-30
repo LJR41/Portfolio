@@ -18643,6 +18643,12 @@
     "CSharpLanguageVersion": 1100
   },
   "RootNamespace": "Portfolio",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Josh\\Desktop\\Coding Dojo\\C#\\Portfolio\\Views\\First\\FirstView.cshtml",
+      "TargetPath": "Views\\First\\FirstView.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }

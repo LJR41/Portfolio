@@ -24,4 +24,11 @@ public class FirstController : Controller
     {
         return "This is my contact!";
     }
+
+    [HttpGet] // We will go over this in more detail on the next page    
+    [Route("view")] // We will go over this in more detail on the next page
+    public ViewResult FirstView()
+    {
+        return View("FirstView");
+    }
 }

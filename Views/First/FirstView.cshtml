@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Razor Fun!</title>
+</head>
+<body>
+    <p>Here's our first VIEW</p>
+    @{
+        List<string> names = new(){"Josh", "Ash", "Rin", "Kai", "Caitlyn"};
+            foreach (string name in names)
+            {
+                if(name[0] == 'C'){
+                    <p style="color:red">@name</p>
+                }
+                else{
+                    <p>@name</p>
+                }
+            }
+    }
+</body>
+</html>

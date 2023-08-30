@@ -24,3 +24,5 @@ C:\Users\Josh\Desktop\Coding Dojo\C#\Portfolio\obj\Debug\net7.0\refint\Portfolio
 C:\Users\Josh\Desktop\Coding Dojo\C#\Portfolio\obj\Debug\net7.0\Portfolio.pdb
 C:\Users\Josh\Desktop\Coding Dojo\C#\Portfolio\obj\Debug\net7.0\Portfolio.genruntimeconfig.cache
 C:\Users\Josh\Desktop\Coding Dojo\C#\Portfolio\obj\Debug\net7.0\ref\Portfolio.dll
+C:\Users\Josh\Desktop\Coding Dojo\C#\Portfolio\obj\Debug\net7.0\Portfolio.RazorAssemblyInfo.cache
+C:\Users\Josh\Desktop\Coding Dojo\C#\Portfolio\obj\Debug\net7.0\Portfolio.RazorAssemblyInfo.cs
